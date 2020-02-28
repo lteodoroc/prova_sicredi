@@ -8,6 +8,9 @@
  *
  * @author Leandro Teodoro
  */
+
+// Versão do Google Chrome: 80.0.3987.122 (Versão oficial) 64 bits
+
 public class Sicredi {
     public static void main(String[] args) throws InterruptedException
     {
